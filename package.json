@@ -7,5 +7,10 @@
   "files": ["src", "README.md"],
   "keywords": ["web-components", "custom-element", "page-preview"],
   "author": "step1709",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stepan1709/page-preview.git"
+  },
+  "homepage": "https://github.com/Stepan1709/page-preview#readme"
 }
