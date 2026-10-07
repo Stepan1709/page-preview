@@ -1,0 +1,11 @@
+{
+  "name": "@step1709/page-preview",
+  "version": "1.0.0",
+  "description": "Custom element for previewing an HTML page",
+  "type": "module",
+  "exports": "./src/page-preview.js",
+  "files": ["src", "README.md"],
+  "keywords": ["web-components", "custom-element", "page-preview"],
+  "author": "step1709",
+  "license": "MIT"
+}
